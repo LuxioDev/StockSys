@@ -112,5 +112,9 @@ if __name__ == "__main__":
     window.show()
     sys.exit(app.exec())
 
-# print ("hola mundo")
+# print ("hola mundo") asd
+# print ("hola mundo") asd
+# print ("hola mundo") asd
+# print ("hola mundo") asd
+
 
